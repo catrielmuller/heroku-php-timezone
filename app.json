@@ -1,0 +1,6 @@
+{
+  "name": "heroku_php_timezone",
+  "description": "Demo Heroku PHP Timezone",
+  "repository": "https://github.com/catrielmuller/heroku_php_timezone",
+  "addons": []
+}
